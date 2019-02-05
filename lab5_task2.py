@@ -1,5 +1,4 @@
 import Point
-import copy
 
 class Rectangle:
 	def __init__(self):
